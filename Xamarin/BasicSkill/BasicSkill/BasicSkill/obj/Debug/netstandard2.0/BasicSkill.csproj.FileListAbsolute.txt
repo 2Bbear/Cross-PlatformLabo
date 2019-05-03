@@ -1,0 +1,16 @@
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\bin\Debug\netstandard2.0\BasicSkill.deps.json
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\bin\Debug\netstandard2.0\BasicSkill.dll
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\bin\Debug\netstandard2.0\BasicSkill.pdb
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.csprojAssemblyReference.cache
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.csproj.CoreCompileInputs.cache
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.AssemblyInfoInputs.cache
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.AssemblyInfo.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\XamlC.stamp
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.dll
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\obj\Debug\netstandard2.0\BasicSkill.pdb
