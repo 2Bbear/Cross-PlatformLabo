@@ -9,7 +9,11 @@
         <Label Text="안드로이드, 아이폰용 UI" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+		
+		<local:CustomView WidthRequest="300" HeightRequest="300" BackgroundColor="Yellow"/>
+		
 		<Button Text="Click Me!" Clicked="Button_Clicked"/>
+		
 	</StackLayout>
 
 </ContentPage>
