@@ -11,7 +11,41 @@ namespace xa002
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            switch (Device.Idiom)
+            {
+                case TargetIdiom.Unsupported:
+                    {
+
+                    }
+                    break;
+                case TargetIdiom.Phone:
+                    {
+                        MainPage = new MainPage();
+                    }
+                    break;
+                case TargetIdiom.Tablet:
+                    {
+
+                    }
+                    break;
+                case TargetIdiom.Desktop:
+                    {
+                        MainPage = new Page_Desktop();
+                    }
+                    break;
+                case TargetIdiom.TV:
+                    {
+
+                    }
+                    break;
+                case TargetIdiom.Watch:
+                    {
+
+                    }
+                    break;
+
+                    
+            }
         }
 
         protected override void OnStart()

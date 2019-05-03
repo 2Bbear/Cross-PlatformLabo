@@ -10,3 +10,4 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netst
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\XamlC.stamp
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.dll
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.pdb
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Page_Desktop.xaml.g.cs

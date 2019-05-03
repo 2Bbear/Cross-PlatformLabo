@@ -6,7 +6,7 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="안드로이드, 아이폰용 UI" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
 		<Button Text="Click Me!" Clicked="Button_Clicked"/>

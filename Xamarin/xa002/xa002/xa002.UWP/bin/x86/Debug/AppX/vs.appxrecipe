@@ -30,13 +30,13 @@
     <AppXManifest Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-05-03T08:14:53.057</Modified>
+      <Modified>2019-05-03T08:23:18.649</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\bin\x86\Debug\xa002.UWP.exe">
       <PackagePath>entrypoint\xa002.UWP.exe</PackagePath>
-      <Modified>2019-05-03T08:14:51.536</Modified>
+      <Modified>2019-05-03T08:23:18.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\IZEX_JJH\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -712,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.dll">
       <PackagePath>xa002.dll</PackagePath>
-      <Modified>2019-05-03T08:13:50.730</Modified>
+      <Modified>2019-05-03T08:23:13.082</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
@@ -863,11 +863,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-05-03T08:14:51.353</Modified>
+      <Modified>2019-05-03T08:23:17.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-05-03T08:14:51.375</Modified>
+      <Modified>2019-05-03T08:23:17.813</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -883,7 +883,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\bin\x86\Debug\Core\xa002.UWP.exe">
       <PackagePath>xa002.UWP.exe</PackagePath>
-      <Modified>2019-05-03T08:14:53.051</Modified>
+      <Modified>2019-05-03T08:23:18.644</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
