@@ -16,7 +16,9 @@ namespace xa002
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            System.Diagnostics.Debug.WriteLine("Click!");
+            //System.Diagnostics.Debug.WriteLine("Click!");
+            var dialer = DependencyService.Get<IDialer>();
+            dialer.dial("010-2552-4444");
         }
     }
 }
