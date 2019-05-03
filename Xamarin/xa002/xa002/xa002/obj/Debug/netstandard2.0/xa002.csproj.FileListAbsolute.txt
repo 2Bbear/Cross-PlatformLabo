@@ -11,3 +11,16 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netst
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.dll
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Page_Desktop.xaml.g.cs
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.deps.json
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.dll
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.pdb
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.csprojAssemblyReference.cache
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Page_Desktop.xaml.g.cs
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.csproj.CoreCompileInputs.cache
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.AssemblyInfoInputs.cache
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.AssemblyInfo.cs
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\XamlC.stamp
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.dll
+E:\GitHub\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.pdb
