@@ -103,6 +103,4 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill\bin\Debug\netstandard2.0\BasicSkill.dll
-G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.Android\bin\Debug\BasicSkill.dll.mdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\BasicSkill\BasicSkill\BasicSkill.Android\obj\Debug\81\linksrc\BasicSkill.dll.mdb
