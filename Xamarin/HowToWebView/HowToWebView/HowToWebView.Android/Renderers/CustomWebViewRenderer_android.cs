@@ -79,8 +79,8 @@ namespace HowToWebView.Droid.Renderers
             }
             if (e.NewElement != null)
             {
-                //"http://192.168.100.190:11014/login/login.do"
-                Control.LoadUrl("http://192.168.100.190:11014/login/login.do");
+                //"http:google.com"
+                Control.LoadUrl("http:google.com");
                 
             }
         }
