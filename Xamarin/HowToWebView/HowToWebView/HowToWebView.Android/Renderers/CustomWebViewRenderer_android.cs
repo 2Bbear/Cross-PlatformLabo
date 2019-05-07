@@ -84,9 +84,9 @@ namespace HowToWebView.Droid.Renderers
             }
             if (e.NewElement != null)
             {
-                //"http://192.168.100.190:11014/login/login.do"
-                Control.LoadUrl("http://192.168.100.190:11014/login/login.do");
-                urlHistory.Push("http://192.168.100.190:11014/login/login.do");
+              
+                Control.LoadUrl("http:naver.com");
+                urlHistory.Push("http:naver.com");
 
 
             }

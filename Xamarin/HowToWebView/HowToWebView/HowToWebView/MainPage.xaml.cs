@@ -10,7 +10,7 @@ namespace HowToWebView
 {
     public partial class MainPage : ContentPage
     {
-        String Url="dd";
+        
         public MainPage()
         {
             InitializeComponent();
@@ -40,7 +40,7 @@ namespace HowToWebView
         /// <param name="e"></param>
         private void Cwv_Main_Navigating(object sender, WebNavigatingEventArgs e)
         {
-            NavigationPage.SetHasNavigationBar(this, e.Url != Url);
+            //NavigationPage.SetHasNavigationBar(this, e.Url != Url);
         }
     }
 }
