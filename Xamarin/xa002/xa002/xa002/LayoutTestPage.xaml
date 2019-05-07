@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa002.LayoutTestPage">
+	<!--Frame은 UWP에서 좀 달라져서 표현됨으로 다른걸 쓰는것이...-->
+	<ContentPage.Content>
+		<Frame BackgroundColor="Green"
+		   HorizontalOptions="Center"
+		   VerticalOptions="Center"
+		   OutlineColor="Red"
+		   CornerRadius="15">
+			<Label Text="Welcom"/>
+		</Frame>
+	</ContentPage.Content>
+</ContentPage>

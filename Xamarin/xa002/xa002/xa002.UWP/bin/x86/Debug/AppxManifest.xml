@@ -7,7 +7,7 @@
 
     패키지 매니페스트 파일에 대한 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=241727을 참조하십시오.
   -->
-  <Identity Name="cdb42251-6c4f-4535-810c-3ec9ea160dff" Publisher="CN=f1db56e5-cd45-4bb4-8a91-ab0698037553" Version="1.0.0.0" ProcessorArchitecture="x86" />
+  <Identity Name="cdb42251-6c4f-4535-810c-3ec9ea160dff" Publisher="CN=IZEX_JJH" Version="1.0.0.0" ProcessorArchitecture="x86" />
   <mp:PhoneIdentity PhoneProductId="ec0cc741-fd3e-485c-81be-68815c480690" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>xa002.UWP</DisplayName>

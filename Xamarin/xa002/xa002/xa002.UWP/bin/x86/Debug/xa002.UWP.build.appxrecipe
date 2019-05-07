@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
-    <PackageIdentityPublisher>CN=f1db56e5-cd45-4bb4-8a91-ab0698037553</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=IZEX_JJH</PackageIdentityPublisher>
     <IntermediateOutputPath>G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
