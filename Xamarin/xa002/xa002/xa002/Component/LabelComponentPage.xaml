@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa002.Component.LabelComponentPage">
+    <ContentPage.Content>
+        <StackLayout>
+			<!--개행 방식 정의-->
+			<Label Text=" LineBreakMode=WordWrapㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ" LineBreakMode="WordWrap" />
+			<Label Text=" LineBreakMode=TailTruncationㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ" LineBreakMode="TailTruncation" />
+			<Label Text=" LineBreakMode=MiddleTruncationㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ" LineBreakMode="MiddleTruncation" />
+			<Label Text=" LineBreakMode=HeadTruncationㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ" LineBreakMode="HeadTruncation" />
+			<Label Text=" LineBreakMode=CharacterWrapㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴㄴ" LineBreakMode="CharacterWrap"/>
+			<!--폰트 색상-->
+			<Label Text="TextColor=Red" TextColor="Red"/>
+			<!--폰트 크기-->
+			<Label Text="FontSize=Large" FontSize="Large"/>
+			<Label Text="FontSize=Default" FontSize="30"/>
+			<Label Text="FontSize=Medium" FontSize="Medium"/>
+			<Label Text="FontSize=Micro" FontSize="Micro" BackgroundColor="Red"/>
+			<Label Text="FontSize=Small" FontSize="Small"/>
+			<!--포맷형식 정의, 레이블 다중 정의-->
+			<Label>
+				<Label.FormattedText>
+					<FormattedString>
+						<Span Text="빨간" TextColor="Red" FontAttributes="Bold"/>
+						<Span Text="사과" TextColor="Green" />
+					</FormattedString>
+				</Label.FormattedText>
+			</Label>
+		</StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xa002.Pages.RelativeLayoutPage">
+    <ContentPage.Content>
+        <RelativeLayout>
+            <Label x:Name="green" Text="Welcome to Xamarin.Forms!"
+				BackgroundColor="Green"
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent ,Property=Width,Factor=0.5,Constant=-100}"
+				RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent ,Property=Height,Factor=0.5,Constant=0}"   
+				RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent ,Property=Width,Factor=0.5,Constant=0}"   
+				RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent ,Property=Height,Factor=0.5,Constant=0}"   
+				   />
+			<Label Text="Welcome to Xamarin.Forms!"
+				BackgroundColor="Red"
+				RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView,ElementName=green,Property=X,Factor=1,Constant=0}" 
+				RelativeLayout.YConstraint="{ConstraintExpression Type=Constant,Constant=30}"
+				   />
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

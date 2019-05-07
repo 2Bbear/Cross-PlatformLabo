@@ -1,4 +1,5 @@
 ﻿using System;
+using xa002.Pages;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -20,7 +21,8 @@ namespace xa002
                     break;
                 case TargetIdiom.Phone:
                     {
-                        MainPage = new MainPage();
+                        //MainPage = new MainPage();
+                        MainPage = new ScrollLayOutPage();
                     }
                     break;
                 case TargetIdiom.Tablet:
