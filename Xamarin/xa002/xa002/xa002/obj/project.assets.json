@@ -47,7 +47,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -343,23 +343,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wkdwj\\.nuget\\packages\\": {},
+    "C:\\Users\\IZEX_JJH\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj",
+      "projectUniqueName": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj",
       "projectName": "xa002",
-      "projectPath": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj",
-      "packagesPath": "C:\\Users\\wkdwj\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\obj\\",
+      "projectPath": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj",
+      "packagesPath": "C:\\Users\\IZEX_JJH\\.nuget\\packages\\",
+      "outputPath": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wkdwj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IZEX_JJH\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -367,8 +367,8 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -2,6 +2,7 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netst
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.dll
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\bin\Debug\netstandard2.0\xa002.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Component\LabelComponentPage.xaml.g.cs
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Pages\AbsoluteLayoutPage.xaml.g.cs
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Pages\FrameLayOutPage.xaml.g.cs
@@ -15,4 +16,3 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netst
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\XamlC.stamp
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.dll
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\xa002.pdb
-G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\xa002\xa002\xa002\obj\Debug\netstandard2.0\Component\LabelComponentPage.xaml.g.cs
