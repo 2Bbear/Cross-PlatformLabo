@@ -8,7 +8,10 @@
         <!-- Place new controls here -->
 		<Editor x:Name="editor_url" Text="Fill in the blank!"></Editor>
 		<Button Text="Click Me!" Clicked="Button_Clicked"/>
-		<local:CustomWebView x:Name="cwv_Main" WidthRequest="300" HeightRequest="500" VerticalOptions="FillAndExpand" BackgroundColor="Yellow"/>
+		<local:CustomWebView x:Name="cwv_Main" WidthRequest="300" HeightRequest="500" VerticalOptions="FillAndExpand" 
+							 BackgroundColor="Yellow"
+							 Navigating="Cwv_Main_Navigating"
+							 />
     </StackLayout>
 
 </ContentPage>

@@ -6,6 +6,7 @@ using Xamarin.Forms.Platform.Android;
 using Android.Webkit;
 using Android.Graphics;
 using System.ComponentModel;
+using System.Collections.Generic;
 
 //[assembly: Dependency(typeof(CustomWebViewRenderer_android.UrlChanger_android))]
 [assembly: ExportRenderer(typeof(CustomWebView), typeof(CustomWebViewRenderer_android))]
@@ -14,7 +15,8 @@ namespace HowToWebView.Droid.Renderers
     public class CustomWebViewRenderer_android : ViewRenderer<CustomWebView, Android.Webkit.WebView>
     {
         Context _context;
-        //static CustomWebViewRenderer_android currentWebView;
+        public static CustomWebViewRenderer_android getInstance { get; set; }
+        private  Stack<string> urlHistory;
         //public class UrlChanger_android : IWebView
         //{
 
@@ -34,7 +36,8 @@ namespace HowToWebView.Droid.Renderers
         public CustomWebViewRenderer_android(Context context) : base(context)
         {
             _context = context;
-            //currentWebView = this;
+            getInstance = this;
+            urlHistory = new Stack<string>();
         }
         /// <summary>
         /// 관련된 프로퍼티가 무언가 변경되었을때 반응하는 메소드
@@ -48,7 +51,9 @@ namespace HowToWebView.Droid.Renderers
             if (e.PropertyName=="Source")
             {
                 Xamarin.Forms.WebView wv = sender as Xamarin.Forms.WebView;
-                Control.LoadUrl((wv.Source as UrlWebViewSource).Url);
+                string targetUrl = (wv.Source as UrlWebViewSource).Url;
+                urlHistory.Push(targetUrl);
+                Control.LoadUrl(targetUrl);
             }
         }
         /// <summary>
@@ -62,7 +67,7 @@ namespace HowToWebView.Droid.Renderers
             {
                 var wv = new Android.Webkit.WebView(_context);
                 wv.Settings.JavaScriptEnabled = true;
-                wv.Settings.CacheMode = CacheModes.NoCache;
+                wv.Settings.CacheMode = CacheModes.CacheElseNetwork;
                 wv.Settings.SetAppCacheEnabled(false);
                 wv.Settings.DomStorageEnabled = true;
                 wv.Settings.SetSupportZoom(true);
@@ -81,9 +86,20 @@ namespace HowToWebView.Droid.Renderers
             {
                 //"http://192.168.100.190:11014/login/login.do"
                 Control.LoadUrl("http://192.168.100.190:11014/login/login.do");
-                
+                urlHistory.Push("http://192.168.100.190:11014/login/login.do");
+
+
             }
         }
+
+       public bool OnBackPressed()
+        {
+            bool result = false;
+            
+            return result;
+        }
+        
+        
     }
 
     /// <summary>

@@ -207,6 +207,4 @@ G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWe
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView.Android\obj\Debug\81\linksrc\Xamarin.Forms.Core.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.pdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView.Android\obj\Debug\81\linksrc\Xamarin.Forms.Xaml.pdb
-G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView\bin\Debug\netstandard2.0\HowToWebView.dll
-G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView.Android\bin\Debug\HowToWebView.dll.mdb
 G:\MyFile\CL\CSharp\Cross-PlatformLabo\Xamarin\HowToWebView\HowToWebView\HowToWebView.Android\obj\Debug\81\linksrc\HowToWebView.dll.mdb
