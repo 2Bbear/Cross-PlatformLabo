@@ -795,20 +795,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IZEX_JJH\\.nuget\\packages\\": {}
+    "C:\\Users\\wkdwj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\xa002.Android.csproj",
+      "projectUniqueName": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\xa002.Android.csproj",
       "projectName": "xa002.Android",
-      "projectPath": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\xa002.Android.csproj",
-      "packagesPath": "C:\\Users\\IZEX_JJH\\.nuget\\packages\\",
-      "outputPath": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\obj\\",
+      "projectPath": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\xa002.Android.csproj",
+      "packagesPath": "C:\\Users\\wkdwj\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\IZEX_JJH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wkdwj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -816,15 +816,15 @@
         "monoandroid81"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Program Files (x86)\\DevExpress 18.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj": {
-              "projectPath": "G:\\MyFile\\CL\\CSharp\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj"
+            "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj": {
+              "projectPath": "E:\\GitHub\\Cross-PlatformLabo\\Xamarin\\xa002\\xa002\\xa002\\xa002.csproj"
             }
           }
         }
