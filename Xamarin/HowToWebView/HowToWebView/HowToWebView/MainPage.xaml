@@ -10,7 +10,6 @@
 		<Button Text="Click Me!" Clicked="Button_Clicked"/>
 		<local:CustomWebView x:Name="cwv_Main" WidthRequest="300" HeightRequest="500" VerticalOptions="FillAndExpand" 
 							 BackgroundColor="Yellow"
-							 Navigating="Cwv_Main_Navigating"
 							 />
     </StackLayout>
 

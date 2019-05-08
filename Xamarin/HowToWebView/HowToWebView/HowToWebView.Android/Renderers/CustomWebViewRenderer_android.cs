@@ -17,12 +17,13 @@ namespace HowToWebView.Droid.Renderers
         Context _context;
         public static CustomWebViewRenderer_android getInstance { get; set; }
         private  Stack<string> urlHistory;
+        public Android.Webkit.WebView wv;
         //public class UrlChanger_android : IWebView
         //{
 
         //    public bool ChangeWeb(string _url, CustomWebView _webView)
         //    {
-                
+
         //        currentWebView.Control.LoadUrl(_url);
         //        return true;
 
@@ -65,7 +66,7 @@ namespace HowToWebView.Droid.Renderers
             base.OnElementChanged(e);
             if (Control == null)
             {
-                var wv = new Android.Webkit.WebView(_context);
+                wv = new Android.Webkit.WebView(_context);
                 wv.Settings.JavaScriptEnabled = true;
                 wv.Settings.CacheMode = CacheModes.CacheElseNetwork;
                 wv.Settings.SetAppCacheEnabled(false);
@@ -73,7 +74,7 @@ namespace HowToWebView.Droid.Renderers
                 wv.Settings.SetSupportZoom(true);
                 wv.Settings.AllowUniversalAccessFromFileURLs = true;
                 wv.SetWebViewClient(new MyWebViewClient());
-
+                
                 SetNativeControl(wv);
             }
             if (e.OldElement != null)
@@ -90,16 +91,7 @@ namespace HowToWebView.Droid.Renderers
 
 
             }
-        }
-
-       public bool OnBackPressed()
-        {
-            bool result = false;
-            
-            return result;
-        }
-        
-        
+        } 
     }
 
     /// <summary>
