@@ -18,7 +18,6 @@ namespace HowToWebView.Droid
         /// </summary>
         public override void OnBackPressed()
         {
-           
             System.Diagnostics.Debug.WriteLine("안드로이드에서 뒤로가기 버튼을 눌렀습니다.");
             if (CustomWebViewRenderer_android.getInstance.wv.CanGoBack() == true)
             {
